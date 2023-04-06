@@ -13,6 +13,8 @@
 name: wubi86
 version: "1.0"
 sort: original
+import_tables:
+  - wubi86.user
 columns:
   - text
   - code
